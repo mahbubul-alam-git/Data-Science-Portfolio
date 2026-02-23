@@ -1,43 +1,39 @@
 # 🚀 My Data Science & Analysis Journey
 
-Welcome to my learning repository! Here, I am organizing all my projects from my Data Science journey. This repository primarily focuses on NumPy, Pandas, and SQL.
+Welcome to my learning repository! This project serves as a centralized hub for my progress in Data Science, focusing on high-performance computing with NumPy, structured data manipulation with Pandas, and database management with SQL.
+
+
 
 ## 📂 Project Structure
 
-Below is the list of various modules and projects I have worked on:
+Below is the list of modules and projects I have completed or am currently working on:
 
 | Project Folder | Tools | Description |
 | :--- | :--- | :--- |
-| [📂 NumPy Analysis](./NumPy_Analysis/) | NumPy, Pandas | MNIST dataset preprocessing, Image masking, and Matrix operations. |
-| [📂 Pandas Analysis](./Pandas_Analysis/) | Pandas | **Titanic Dataset Analysis:** Extensive EDA, handling missing values, feature engineering (One-Hot Encoding, Regex), DataFrame merging, and Outlier detection using IQR. |
-| [📂 SQL Queries](./SQL_Queries/) | SQL, PostgreSQL | (Coming Soon) Database management, Joins, and complex query optimization. |
-
-### 📊 Pandas Project Highlights: Titanic Dataset
-* **EDA & Filtering:** Extracted statistical summaries and filtered data using complex multi-conditional logic (e.g., specific age groups and passenger classes).
-* **Data Cleaning:** Imputed missing values (Age with median, Embarked with mode) and dropped unusable columns to maintain data integrity.
-* **Feature Engineering:** Extracted passenger titles using Regex, engineered a new `FamilySize` feature, and applied categorical One-Hot Encoding.
-* **Advanced Manipulation:** Demonstrated SQL-like operations by merging DataFrames (`pd.merge`) and performing complex sorting/grouping.
-* **Outlier Detection:** Used the Interquartile Range (IQR) method to calculate boundaries and identify statistical anomalies in ticket fares.
+| [📂 NumPy Analysis](./NumPy_Analysis/) | NumPy, Pandas | **Mathematical Foundations:** MNIST preprocessing (Normalization, Reshaping, Masking), Matrix Algebra, and Pearson Correlation Analysis on Titanic data. |
+| [📂 Pandas Analysis](./Pandas_Analysis/) | Pandas | **End-to-End EDA:** Comprehensive Titanic dataset cleaning, Feature Engineering (Regex/One-Hot Encoding), Relational Merging, and IQR-based Outlier Detection. |
+| [📂 SQL Queries](./SQL_Queries/) | SQL, PostgreSQL | (Coming Soon) Database management, Schema Design, and complex query optimization. |
 
 ---
 
 ## 🛠️ Skills & Technologies
-- **Python:** The core language for all scripts.
-- **NumPy:** Mathematical operations, Image processing as arrays.
-- **Pandas:** Tabular data handling, complex manipulation, and statistical analysis.
-- **SQL:** Data extraction and database interaction.
-- **Jupyter Notebook:** For interactive analysis and visualization.
+- **Python:** The core language used for all data processing scripts.
+- **NumPy:** High-performance array computing, Linear Algebra, and image-to-matrix manipulation.
+- **Pandas:** Tabular data handling, Statistical Aggregation, and end-to-end data cleaning pipelines.
+- **SQL:** Data extraction, joins, and database interaction (In Progress).
+- **Jupyter Notebook:** Interactive development environment for documented, reproducible analysis.
 
 ---
 
 ## 📈 Roadmap & Goals
-- [x] NumPy Basics & MNIST Image Manipulation
-- [x] Titanic Dataset EDA & Feature Engineering
-- [x] Pandas Deep Dive (Data Cleaning, Merging & Outlier Detection)
+- [x] NumPy Basics, Matrix Operations & MNIST Preprocessing
+- [x] Statistical Correlation Study (NumPy + Titanic)
+- [x] Pandas Deep Dive (Cleaning, Feature Engineering & Outliers)
 - [ ] SQL Project (Database Schema Design & Querying)
-- [ ] Integrating SQL data with Pandas for Analysis
+- [ ] Integrating SQL data with Pandas for Advanced Analysis
 
 ## 📫 Contact
 Feel free to reach out if you have any questions or suggestions!
 
-[Mahbub Alam] - [sakibgo24@gmail.com](mailto:sakibgo24@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mahbubl-alam)
+**Mahbub Alam** 📩 [sakibgo24@gmail.com](mailto:sakibgo24@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mahbubl-alam)
+
