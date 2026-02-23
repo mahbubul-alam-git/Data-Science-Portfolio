@@ -4,6 +4,8 @@ This repository contains a Jupyter Notebook (`numpy.ipynb`) demonstrating essent
 
 The code serves as a practical toolkit for handling structured data and image matrices, bridging the gap between raw datasets and machine learning readiness.
 
+
+
 ## 📊 Projects & Concepts Covered
 
 ### 1. MNIST Image Preprocessing
@@ -19,7 +21,7 @@ The code serves as a practical toolkit for handling structured data and image ma
 
 ### 3. Exploratory Data Analysis (EDA) - Titanic Dataset
 * Extracted the `Age` and `Fare` features from the cleaned Titanic dataset.
-* Calculated the Pearson Correlation Coefficient using `np.corrcoef` to analyze the linear relationship between passenger age and ticket price.
+* Calculated the **Pearson Correlation Coefficient** using `np.corrcoef` to analyze the linear relationship between passenger age and ticket price.
 
 ### 4. Linear Algebra & Array Operations
 * **Matrix Multiplication:** Implemented dot products using both `np.dot()` and the modern `@` operator.
@@ -34,6 +36,6 @@ The code serves as a practical toolkit for handling structured data and image ma
 
 ## 🚀 How to Use
 1. Clone the repository to your local machine.
-2. Ensure you have `numpy` and `pandas` installed (`pip install numpy pandas`).
-3. Download the `mnist_test.csv` and `Titanic-Dataset-Cleaned.csv` files into the same directory.
-4. Open `numpy.ipynb` in Jupyter Notebook or JupyterLab and run the cells sequentially.
+2. Ensure you have `numpy` and `pandas` installed: `pip install numpy pandas`.
+3. Download `mnist_test.csv` and `Titanic-Dataset-Cleaned.csv` into this directory.
+4. Open `numpy.ipynb` in Jupyter Notebook and run the cells sequentially.
