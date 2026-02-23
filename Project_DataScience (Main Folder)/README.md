@@ -32,4 +32,4 @@ Below is the list of various modules and projects I have worked on:
 
 ## 📫 Contact
 Feel free to reach out if you have any questions or suggestions!
-[Mahbub Alam] - [sakibgo24@gmail.com/linkedin.com/in/mahbubl-alam]
+[Mahbub Alam] - [sakibgo24@gmail.com/https://www.linkedin.com/in/mahbubl-alam]
