@@ -12,7 +12,7 @@ Below is the list of modules and projects I have completed or am currently worki
 | :--- | :--- | :--- |
 | [📂 NumPy Analysis](./NumPy_Analysis/) | NumPy, Pandas | **Mathematical Foundations:** MNIST preprocessing (Normalization, Reshaping, Masking), Matrix Algebra, and Pearson Correlation Analysis on Titanic data. |
 | [📂 Pandas Analysis](./Pandas_Analysis/) | Pandas | **End-to-End EDA:** Comprehensive Titanic dataset cleaning, Feature Engineering (Regex/One-Hot Encoding), Relational Merging, and IQR-based Outlier Detection. |
-| [📂 Data Visualization](./Data_Visualization/) | Matplotlib, Seaborn | (Coming Soon) Creating visual insights using various plots and charts. |
+| [📂 Data Visualization](./Data_Visualization/) | Matplotlib, Seaborn | Creating visual insights using various plots and charts. |
 | [📂 SQL Queries](./SQL_Queries/) | SQL, PostgreSQL | (Coming Soon) Database management, Schema Design, and complex query optimization. |
 
 ---
@@ -31,7 +31,7 @@ Below is the list of modules and projects I have completed or am currently worki
 - [x] NumPy Basics, Matrix Operations & MNIST Preprocessing
 - [x] Statistical Correlation Study (NumPy + Titanic)
 - [x] Pandas Deep Dive (Cleaning, Feature Engineering & Outliers)
-- [ ] Data Visualization with Matplotlib, Seaborn (Line, Bar, Scatter plots)
+- [x] Data Visualization with Matplotlib, Seaborn (Line, Bar, Scatter plots)
 - [ ] SQL Project (Database Schema Design & Querying)
 - [ ] Integrating SQL data with Pandas and Matplotlib for Advanced Analysis
 
