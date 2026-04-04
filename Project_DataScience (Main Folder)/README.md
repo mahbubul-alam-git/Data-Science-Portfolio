@@ -29,10 +29,10 @@ Below is the list of modules and projects I have completed or am currently worki
 
 ## 📈 Roadmap & Goals
 - [x] NumPy Basics, Matrix Operations & MNIST Preprocessing
-- [x] Statistical Correlation Study (NumPy + Titanic)
+- [x] Statistical Correlation Study
 - [x] Pandas Deep Dive (Cleaning, Feature Engineering & Outliers)
-- [x] Data Visualization with Matplotlib, Seaborn (Line, Bar, Scatter plots)
-- [ ] SQL Project (Database Schema Design & Querying)
+- [x] Data Visualization with Matplotlib, Seaborn
+- [ ] SQL Project 
 - [ ] Integrating SQL data with Pandas and Matplotlib for Advanced Analysis
 
 ## 📫 Contact
